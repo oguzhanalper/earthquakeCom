@@ -1,0 +1,11 @@
+{
+  "name": "earthquakecom",
+  "version": "1.0.0",
+  "description": "Bu projede amacımız deprem olan bölgelerimize ulaştırılan psikolojik danışmanlık hizmetlerinin takibi esasıdır.\r Bu proje sayesinde kaydı oluşturulan depremzedelerimizin takibi yapmak kolaylaşmakla birlikte, henüz destek alamamış depremzedelerimize de ulaşabilirliğin daha kolay olabileceği bir uygulama geliştirmek amacındayız.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
